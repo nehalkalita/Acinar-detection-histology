@@ -1,4 +1,4 @@
-# Acinar detection in histology images
+# Acinar cell detection in histology images
 A rule based model to detect acinar cells in H&E stained histology images. 
 
 ![alt text](Display_image.png)
